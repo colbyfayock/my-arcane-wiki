@@ -1,0 +1,56 @@
+[
+  {
+    "id": "caitlyn",
+    "title": "Caitlyn",
+    "image": "/images/caitlyn.jpeg",
+    "link": "https://leagueoflegends.fandom.com/wiki/Caitlyn"
+  },
+  {
+    "id": "ekko",
+    "title": "Ekko",
+    "image": "/images/ekko.jpeg",
+    "link": "https://leagueoflegends.fandom.com/wiki/Ekko"
+  },
+  {
+    "id": "jayce",
+    "title": "Jayce",
+    "image": "/images/jayce.jpeg",
+    "link": "https://leagueoflegends.fandom.com/wiki/Jayce"
+  },
+  {
+    "id": "jinx",
+    "title": "Jinx",
+    "image": "/images/jinx.jpeg",
+    "link": "https://leagueoflegends.fandom.com/wiki/Jinx"
+  },
+  {
+    "id": "mel",
+    "title": "Mel",
+    "image": "/images/mel.jpeg",
+    "link": "https://leagueoflegends.fandom.com/wiki/Mel"
+  },
+  {
+    "id": "silco",
+    "title": "Silco",
+    "image": "/images/silco.jpeg",
+    "link": "https://leagueoflegends.fandom.com/wiki/Silco"
+  },
+  {
+    "id": "vander",
+    "title": "Vander",
+    "image": "/images/vander.jpeg",
+    "link": "https://leagueoflegends.fandom.com/wiki/Vander"
+  },
+  {
+    "id": "vi",
+    "title": "Vi",
+    "image": "/images/vi.jpeg",
+    "link": "https://leagueoflegends.fandom.com/wiki/Vi"
+  },
+  {
+    "id": "viktor",
+    "title": "Viktor",
+    "image": "/images/viktor.jpeg",
+    "link": "https://leagueoflegends.fandom.com/wiki/Viktor"
+  }
+]
