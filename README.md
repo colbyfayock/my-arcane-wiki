@@ -1,25 +1,15 @@
-# Arcane Wiki Demo
+# Automatic Image Optimization on Netlify with the Cloudinary Build Plugin
 
-## Getting Started
+Demo for tutorial [How to Optimize Images on Netlify with the Cloudinary Build Plugin](https://www.youtube.com/watch?v=0YOnthePzxI)
 
-- Install dependencies
+📝 Article: https://spacejelly.dev/posts/how-to-optimize-images-on-netlify-with-the-cloudinary-build-plugin/
 
-```
-npx create-next-app my-arcane-wiki -e https://github.com/colbyfayock/demo-arcane-wiki
-# or 
-yarn create next-app my-arcane-wiki -e https://github.com/colbyfayock/demo-arcane-wiki
-```
+📺 YouTube: https://www.youtube.com/watch?v=0YOnthePzxI
 
-- Navigate to your new project
+## More tutorials and walkthroughs
 
-```
-cd my-online-store
-```
+🐦 [Follow me on Twitter](https://twitter.com/colbyfayock)
 
-- Start a local development server
+📺 [Subscribe on YouTube](https://www.youtube.com/colbyfayock)
 
-```
-npm run dev
-# or
-yarn dev
-```
+✉️ [Sign Up for My Newsletter](https://colbyfayock.com/newsletter)
