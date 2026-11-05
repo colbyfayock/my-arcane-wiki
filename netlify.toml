@@ -1,3 +1,9 @@
+[build]
+  command = "node --version && yarn build"
+
+[build.environment]
+  NODE_VERSION = "24"
+
 [[plugins]]
   package = "netlify-plugin-cloudinary"
 
