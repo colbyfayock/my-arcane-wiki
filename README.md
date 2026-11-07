@@ -2,7 +2,6 @@
 
 Demo for tutorial [How to Optimize Images on Netlify with the Cloudinary Build Plugin](https://www.youtube.com/watch?v=0YOnthePzxI)
 
-🚀 See Demo: https://my-arcane-wiki.netlify.app/
 
 📝 Article: https://spacejelly.dev/posts/how-to-optimize-images-on-netlify-with-the-cloudinary-build-plugin/
 
